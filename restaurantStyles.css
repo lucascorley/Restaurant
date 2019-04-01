@@ -1,0 +1,12 @@
+body {
+     background-image: url("bkgnd.jpg");
+}
+
+h1 {
+   color: #581845;
+}
+
+a:hover {
+        background-color: purple;
+        color: blue;
+}
